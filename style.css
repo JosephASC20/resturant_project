@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+body {
+    background-color: #EA717B;
+}
+
+#Header {
+    width: 100%;
+}
+
+#Menu {
+    display: flex;
+    flex-direction: initial;
+}
+
+img {
+    width: 10%;
+    display: flex;
+}
